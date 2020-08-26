@@ -1,5 +1,5 @@
 # Repositorio de práctica
 ## Conceptos
-* Feature
-* Release
-* Hotfix
+- **Feature**
+- **Release**
+- __Hotfix__
